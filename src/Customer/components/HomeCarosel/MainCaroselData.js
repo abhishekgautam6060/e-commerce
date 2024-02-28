@@ -4,7 +4,7 @@ export const mainCaroselData=[
         path:""
     },
     {
-        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSybGclMqssD-YdB0iBbgWDp6U4ooplfNwF188EtpzgIum3i8I4q-1a-lKS-uAMGqb6qTI&usqp=CAU",
+        image:"https://www.forevernew.co.in//pub/media/wysiwyg/home/Womens-day-(Desktop).jpg",
         path:""
     },
 ]
