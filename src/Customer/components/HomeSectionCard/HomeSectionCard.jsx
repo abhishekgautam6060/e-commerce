@@ -16,7 +16,13 @@ export const HomeSectionCard = ({ product }) => {
 
       <div className="p-4">
         <h3 className="text-lg font-medium text-gray-900">{product.brand}</h3>
-        <h4 className="text-md font-medium text-gray-600">{product.discountedPrice}</h4>
+         <div className="flex items-center space-x-2">
+          <p className="font-semibold">₹{product.discountedPrice}</p>
+          <p className="line-through opacity-50">{product.price}</p>
+          <p className="text-green-600 font-semibold">
+            {product.discountPersent}% off
+          </p>
+        </div>
         <p className="mt-2 text-sm text-gray-500">
           {product.title}
         </p>
