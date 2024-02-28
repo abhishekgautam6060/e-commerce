@@ -4,7 +4,7 @@ export const mainCaroselData=[
         path:""
     },
     {
-        image:"https://medias.utsavfashion.com/media/wysiwyg/home/2022/2806/traditional-menswear-hs.jpg",
+        image:"https://sslimages.shoppersstop.com/sys-master/root/hee/hfe/31259529543710/Static-1840x600--Web_261023_mens.jpg",
         path:""
     },
 ]
