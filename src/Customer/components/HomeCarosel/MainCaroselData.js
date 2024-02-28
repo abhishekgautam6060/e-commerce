@@ -4,7 +4,7 @@ export const mainCaroselData=[
         path:""
     },
     {
-        image:"https://sslimages.shoppersstop.com/sys-master/root/hee/hfe/31259529543710/Static-1840x600--Web_261023_mens.jpg",
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSybGclMqssD-YdB0iBbgWDp6U4ooplfNwF188EtpzgIum3i8I4q-1a-lKS-uAMGqb6qTI&usqp=CAU",
         path:""
     },
 ]
