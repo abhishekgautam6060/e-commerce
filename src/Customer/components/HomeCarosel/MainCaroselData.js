@@ -4,7 +4,7 @@ export const mainCaroselData=[
         path:""
     },
     {
-        image:"https://www.nicepng.com/png/detail/254-2548753_flat-50-discount-offer-on-clothes-apartment.png",
+        image:"https://medias.utsavfashion.com/media/wysiwyg/home/2022/2806/traditional-menswear-hs.jpg",
         path:""
     },
 ]
