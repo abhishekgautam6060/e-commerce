@@ -39,7 +39,7 @@ export const mens_kurta = [
     brand: "Gautams",
     title: "Men Luxary pure Cotton Straight Kurta",
     color: "Blue",
-    discountedPirce: 499,
+    discountedPrice: 499,
     price: 1499,
     discountedPersent: 66,
     size: [
@@ -73,7 +73,7 @@ export const mens_kurta = [
     brand: "Raymond",
     title: "Men Stylist pure Cotton Straight Kurta",
     color: "Pink",
-    discountedPirce: 499,
+    discountedPrice: 499,
     price: 1499,
     discountedPersent: 66,
     size: [
@@ -107,7 +107,7 @@ export const mens_kurta = [
     brand: "Aza Fashions",
     title: "Men Printed pure Cotton Straight Kurta",
     color: "Cream",
-    discountedPirce: 499,
+    discountedPrice: 499,
     price: 1499,
     discountedPersent: 66,
     size: [
@@ -141,7 +141,7 @@ export const mens_kurta = [
     brand: "Tasva",
     title: "Men Plane pure Cotton Kurta",
     color: "Grey",
-    discountedPirce: 499,
+    discountedPrice: 499,
     price: 1499,
     discountedPersent: 66,
     size: [
@@ -175,7 +175,7 @@ export const mens_kurta = [
     brand: "Messho",
     title: "Men wedding wear pure Cotton Straight Kurta",
     color: "Yellow",
-    discountedPirce: 499,
+    discountedPrice: 499,
     price: 1499,
     discountedPersent: 66,
     size: [
@@ -209,7 +209,7 @@ export const mens_kurta = [
     brand: "Gautams",
     title: "Men Luxary wedding wear pure Cotton Kurta",
     color: "Off-white",
-    discountedPirce: 499,
+    discountedPrice: 499,
     price: 1499,
     discountedPersent: 66,
     size: [
@@ -243,7 +243,7 @@ export const mens_kurta = [
     brand: "Nihal Fashions",
     title: "Men Printed black pure Cotton Straight Kurta",
     color: "Black",
-    discountedPirce: 499,
+    discountedPrice: 499,
     price: 1499,
     discountedPersent: 66,
     size: [
