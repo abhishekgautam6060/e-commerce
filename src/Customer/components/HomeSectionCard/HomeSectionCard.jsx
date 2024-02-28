@@ -16,6 +16,7 @@ export const HomeSectionCard = ({ product }) => {
 
       <div className="p-4">
         <h3 className="text-lg font-medium text-gray-900">{product.brand}</h3>
+        <h4 className="text-md font-medium text-gray-600">{product.discountedPrice}</h4>
         <p className="mt-2 text-sm text-gray-500">
           {product.title}
         </p>
