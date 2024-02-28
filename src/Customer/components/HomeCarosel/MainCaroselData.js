@@ -1,6 +1,6 @@
 export const mainCaroselData=[
     {
-        image:"https://img1.junaroad.com/assets/images/mobileNotif/1490703811159.jpg",
+        image:"https://rohitkamra.com/cdn/shop/files/slider_1.jpg?v=1613606863",
         path:""
     },
     {
